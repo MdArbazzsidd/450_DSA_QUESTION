@@ -3,6 +3,7 @@
 import java.util.ArrayList;
 
 public class intersections {
+    
     public int [] intersectionarr( int [] num1, int [] num2){
         ArrayList<Integer> addedInArr = new ArrayList<>();
         for(int i=0; i<num1.length; i++){
